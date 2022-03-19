@@ -20,7 +20,7 @@ Analysis is based on data for 2016.09-2017.09
 * Question 2: What are the main factors impacting price?
 * Question 3: What is the sentiment difference in apartment descriptions vs reviews by guests?
 
-Content of Analysis (structue of Analysis in the 1st project.jpynb)
+### Content of Analysis (structue of Analysis in the 1st project.jpynb)
 
 #### Business Understanding
 #### Import and Understand Data
